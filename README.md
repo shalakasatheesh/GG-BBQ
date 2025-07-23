@@ -8,12 +8,12 @@ Within the context of Natural Language Processing (NLP), fairness evaluation is 
 Templates used to create Subset-I and Subset-II. Subsets to follow soon!
 
 # Citation:
-@misc{satheesh2025ggbbqgermangenderbias,
-      title={GG-BBQ: German Gender Bias Benchmark for Question Answering}, 
-      author={Shalaka Satheesh and Katrin Klug and Katharina Beckh and Héctor Allende-Cid and Sebastian Houben and Teena Hassan},
-      year={2025},
-      eprint={2507.16410},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2507.16410}, 
-}
+    @misc{satheesh2025ggbbqgermangenderbias,
+        title={GG-BBQ: German Gender Bias Benchmark for Question Answering}, 
+        author={Shalaka Satheesh and Katrin Klug and Katharina Beckh and Héctor Allende-Cid and Sebastian Houben and Teena Hassan},
+        year={2025},
+        eprint={2507.16410},
+        archivePrefix={arXiv},
+        primaryClass={cs.CL},
+        url={https://arxiv.org/abs/2507.16410}, 
+    }
