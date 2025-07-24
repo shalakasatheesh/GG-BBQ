@@ -7,8 +7,12 @@ Within the context of Natural Language Processing (NLP), fairness evaluation is 
 # In this repository:
 - [Templates](templates) used to create Subset-I and Subset-II 
 - [Subset-I](data/subset-1) and [Subset-II](data/subset-2) created and used for evaluation in the paper
-<!-- - [Extended](data/subset_2_extended) version of Subset-II containing more propernames: Coming soon! -->
 - Extended version of Subset-II containing more propernames: Coming soon.
+<!-- - [Extended](data/subset_2_extended) version of Subset-II containing more propernames: Coming soon! -->
+
+# Huggingface
+
+Our data is also available on [Huggingface](https://huggingface.co/datasets/shalakasatheesh/GG-BBQ)
 
 # Citation:
     @misc{satheesh2025ggbbqgermangenderbias,
