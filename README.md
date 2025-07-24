@@ -11,6 +11,7 @@ Within the context of Natural Language Processing (NLP), fairness evaluation is 
 <!-- - [Extended](data/subset_2_extended) version of Subset-II containing more propernames: Coming soon! -->
 
 🤗  Our data is also available on [Huggingface](https://huggingface.co/datasets/shalakasatheesh/GG-BBQ)
+📄 Link to our Paper on [arXiv](https://arxiv.org/abs/2507.16410)
 
 # Citation:
     @misc{satheesh2025ggbbqgermangenderbias,
